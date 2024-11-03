@@ -53,6 +53,8 @@ Chinese
 Russian
 Italian
 Arabic
+![Screenshot 2024-11-03 185423](https://github.com/user-attachments/assets/d339f7fe-22ce-4569-a400-3cf56ebc86c5)
+
 
 **Code Structure**
 main.py: Main script that integrates wake word detection, language selection, voice recognition, translation, and audio output.
